@@ -2,8 +2,8 @@
 Web App using Ktor Framework
 
 # requirements
-JDK 17
-Intellij IDEA
+- JDK 17
+- Intellij IDEA
 
 # how to run
-Open Intellij IDEA and select the folder to open, then click on green flag button (debug or run).
+Open Intellij IDEA and select the folder to open, then click on green flag button (debug or run)
