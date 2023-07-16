@@ -6,4 +6,4 @@ Web App using Ktor Framework
 - Intellij IDEA
 
 # how to run
-Open Intellij IDEA and select the folder to open, then click on green flag button (debug or run)
+Open Intellij IDEA and select the project folder to open, then click on green flag button (debug or run)
